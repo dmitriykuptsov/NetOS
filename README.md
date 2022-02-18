@@ -1,5 +1,6 @@
 # NetOS
 
-This is a silly attempt to build own operating system based on Linux. We will heavily realy on LFS book in this project.
+Often, when implementing the projects, it is required to ensure security of the underlying OS by careful selection of the OS packages. 
 
+This repository contains a script which simplifies a task of building an image of Linux OS from scratch. 
 
